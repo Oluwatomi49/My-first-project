@@ -1,0 +1,4 @@
+To be proficient in the use of microsoft Excel
+To be proficient in the use of power BI
+To be proficient in the use of SQL
+To be proficient in the use of python for Data Analysis
